@@ -1,0 +1,15 @@
+<div class="dialog">
+    <div mat-dialog-content>
+      <mat-form-field appearance="fill">
+        <mat-label>Course Name</mat-label>
+        <input matInput [formControl]="name" [ngModel]="data.name" />
+      </mat-form-field>
+    </div>
+    <div mat-dialog-actions>
+      <button mat-button (click)="onNoClick()">Cancle</button>
+      <button mat-button [mat-dialog-close]="data.name" cdkFocusInitial>
+        Save
+      </button>
+    </div>
+  </div>
+  

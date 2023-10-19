@@ -1,0 +1,97 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Hydrogen",
+      "courses": [
+        { "position": 1, "name": "Hydrogen" },
+        { "position": 2, "name": "Helium" },
+        { "position": 3, "name": "Lithium" }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Helium",
+      "courses": [
+        { "position": 1, "name": "Hydrogen" },
+        { "position": 2, "name": "Helium" }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Lithium",
+      "courses": [
+        { "position": 1, "name": "Hydrogen" },
+        { "position": 2, "name": "Helium" }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Beryllium",
+      "courses": [
+        { "position": 1, "name": "Hydrogen" },
+        { "position": 2, "name": "Helium" }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Boron",
+      "courses": [
+        { "position": 1, "name": "Hydrogen" },
+        { "position": 2, "name": "Helium" }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Carbon",
+      "courses": [
+        { "position": 1, "name": "Hydrogen" },
+        { "position": 2, "name": "Helium" }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Nitrogen",
+      "courses": [
+        { "position": 1, "name": "Hydrogen" },
+        { "position": 2, "name": "Helium" }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Oxygen",
+      "courses": [
+        { "position": 1, "name": "Hydrogen" },
+        { "position": 2, "name": "Helium" }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Fluorine",
+      "courses": [
+        { "position": 1, "name": "Hydrogen" },
+        { "position": 2, "name": "Helium" }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Neon",
+      "courses": [
+        { "position": 1, "name": "Hydrogen" },
+        { "position": 2, "name": "Helium" }
+      ]
+    }
+  ],
+  "courses": [
+    { "position": 1, "name": "Hydrogen" },
+    { "position": 2, "name": "Helium" },
+    { "position": 3, "name": "Lithium" },
+    { "position": 4, "name": "Beryllium" },
+    { "position": 5, "name": "Boron" },
+    { "position": 6, "name": "Carbon" },
+    { "position": 7, "name": "Nitrogen" },
+    { "position": 8, "name": "Oxygen" },
+    { "position": 9, "name": "Fluorine" },
+    { "position": 10, "name": "Neon" }
+  ]
+}
